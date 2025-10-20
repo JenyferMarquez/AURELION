@@ -1,6 +1,10 @@
 # Aurelion
 
-### 1. Definición del Problema ✒️
+### 1. Tema
+
+Optimización del inventario mediante análisis de productos más vendidos.
+
+### 2. Definición del Problema ✒️
 
 La tienda quiere saber cuáles son los productos más vendidos para optimizar su estrategia de ventas, lo que incluye mejorar la gestión de inventarios y el diseño de la tienda.
 
@@ -12,20 +16,20 @@ Los usuarios son los representantes de la tienda Aurelión quienes necesitan det
 
 Los usuarios desean tener información útil, precisa y rápida.
 
-### 2. Solución 🎯
+### 3. Solución 🎯
 
 * Desarrollar un algoritmo que permita predecir la cantidad de productos vendidos por periodo para optimizar el abastecimiento.
 
 [![premium-photo-1682088309871-3cfc6f00f594.avif](https://i.postimg.cc/3w9H3XFT/premium-photo-1682088309871-3cfc6f00f594.avif)](https://postimg.cc/jWW1XJ1g)
 
-### 3. Tecnologias 🛠️
+### 4. Tecnologias 🛠️
 
  Trabajamos este proyecto haciendo uso de :
 
  * Python
  * Panda
    
-###  4. Database
+### 5. Database
 
 1. Clientes:
     * id_clinte: int
@@ -56,7 +60,7 @@ Los usuarios desean tener información útil, precisa y rápida.
     * precio_unitario: int
     * importe: int
 
-### 5. Copilot:
+### 6. Copilot:
 Quiero crear una función en Python que muestre un menú interactivo, utilizando los datasets para obtener las ventas más altas por cliente o por producto.
 
 
