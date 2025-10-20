@@ -37,7 +37,7 @@ def top_productos(n=10):
     print("\n--- Top productos más vendidos ---")
     print(resumen)
 
-# Function to compute top-buying clients
+# Function to compute top-buying clientsgit 
 def top_clientes(n=10):
     resumen = (df.groupby('nombre_cliente')['importe']
                .sum()
